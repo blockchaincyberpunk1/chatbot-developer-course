@@ -1,0 +1,41 @@
+Fine-Tuning Pretrained Models
+
+Objective: Understand the process of fine-tuning pretrained language models.
+
+In this assignment, you will delve into the concept of fine-tuning pretrained language models, a crucial skill for chatbot developers. You will select a pretrained language model and a specific natural language processing (NLP) task and create a comprehensive plan for fine-tuning the model for that task. Your plan should encompass data preparation, fine-tuning steps, and criteria for evaluating the model's performance.
+
+Instructions:
+
+Part 1: Model and Task Selection:
+
+Choose a pretrained language model from the following options (or another reputable pretrained model of your choice):
+
+GPT-3 (Generative Pre-trained Transformer 3)
+BERT (Bidirectional Encoder Representations from Transformers)
+RoBERTa (A Robustly Optimized BERT Pretraining Approach)
+Select a specific NLP task or problem that you aim to solve with your fine-tuned model. Examples include sentiment analysis, text classification, question answering, etc.
+
+Part 2: Fine-Tuning Plan:
+3. Develop a detailed plan for fine-tuning the selected pretrained language model for the chosen NLP task. Your plan should include the following components:
+
+Data Preparation: Describe the dataset you will use for fine-tuning, its size, and how you will preprocess it (e.g., tokenization, data augmentation).
+Fine-Tuning Steps: Outline the steps involved in fine-tuning the model. Include details about hyperparameters, training epochs, and any modifications or additions required.
+Evaluation Metrics: Specify the metrics you will use to evaluate the model's performance on the task. Explain why these metrics are relevant.
+Training Process: Describe how you will split the data into training, validation, and testing sets. Explain the rationale behind this split.
+Part 3: Ethical Considerations:
+4. Discuss any ethical considerations or potential biases associated with fine-tuning pretrained models for your selected NLP task. Explain how you plan to address these concerns during the fine-tuning process.
+
+Part 4: Conclusion:
+5. Summarize the key components of your fine-tuning plan and emphasize the importance of fine-tuning in adapting pretrained models for real-world NLP tasks.
+
+Part 5: References:
+6. Include a list of credible sources and references to support your explanations and research. Ensure proper citation formatting.
+
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Appropriateness of model and task selection.
+Clarity and completeness of the fine-tuning plan.
+Consideration of ethical and bias-related issues.
+Proper citation of sources and references.

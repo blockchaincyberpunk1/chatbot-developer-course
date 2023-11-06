@@ -1,0 +1,39 @@
+Exploring Programming Languages
+
+Objective: Select and become proficient in a programming language for chatbot development.
+
+In this assignment, you will explore various programming languages used in chatbot development and select one to become proficient in. You will research and provide an overview of the selected programming language, including its history, use cases, and notable features. Additionally, you will create a simple "Hello World" program using the chosen language to demonstrate your understanding of its syntax and basic features.
+
+Instructions:
+
+Research Programming Languages:
+
+Research and explore different programming languages commonly used in chatbot development. Some popular choices include Python, JavaScript, Ruby, and Java. Choose one that you find interesting or that aligns with your goals.
+Overview of Selected Language:
+
+Provide an overview of the programming language you have selected. Include the following information:
+History: Briefly describe the history and origin of the language.
+Use Cases: Explain the common use cases and industries where this language is widely used, particularly in the context of chatbot development.
+Notable Features: Highlight any distinctive features or libraries that make this language suitable for chatbot development.
+"Hello World" Program:
+
+Write a simple "Hello World" program using the selected programming language. This program should display the text "Hello, World!" when executed.
+Ensure that your program adheres to the syntax and conventions of the chosen language.
+Documentation:
+
+Document your research findings, including the overview of the programming language and the source code of your "Hello World" program.
+Presentation (Optional):
+
+If presenting your assignment, consider creating a brief presentation summarizing the key points of your research and demonstrating your "Hello World" program.
+Submission Guidelines:
+
+Submit your assignment in a well-organized format, such as a document, presentation slides, or any other suitable format.
+Ensure that your documentation is clear and well-structured.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and clarity of the programming language overview.
+Correct implementation of the "Hello World" program.
+Adherence to programming language syntax and conventions.
+Quality of documentation and presentation (if applicable).

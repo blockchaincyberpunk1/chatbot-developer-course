@@ -1,0 +1,40 @@
+Transformers for Chatbots
+
+Objective: Explore the Hugging Face Transformers library for advanced NLP tasks.
+
+In this assignment, you will delve into advanced Natural Language Processing (NLP) by exploring the Hugging Face Transformers library, which provides access to pre-trained transformer models. You will research and implement a chatbot prototype that utilizes a pre-trained transformer model for conversational generation.
+
+Instructions:
+
+Research Hugging Face Transformers:
+
+Research and provide an overview of the Hugging Face Transformers library. Explain its purpose and significance in the field of NLP.
+Explore the pre-trained transformer models available in the library. Discuss the capabilities and use cases of some of the popular models such as GPT-3, BERT, or others.
+Chatbot Prototype Implementation:
+
+Select a pre-trained transformer model from Hugging Face Transformers that you would like to use for your chatbot. Choose a model that is suitable for conversational generation.
+Implement a chatbot prototype using Python and the selected transformer model. You can use libraries like Transformers or Hugging Face's Transformers library.
+Describe the architecture of your chatbot, including how it interacts with the pre-trained transformer model. Explain the process of input, processing, and output for user interactions.
+Provide example chatbot conversations to showcase the chatbot's functionality. Include a variety of user inputs and responses to demonstrate the chatbot's versatility.
+Documentation:
+
+Document the code and steps you took to create the chatbot prototype.
+Explain how the pre-trained transformer model is fine-tuned or utilized for the chatbot's conversational responses.
+Include code snippets and examples of chatbot interactions.
+Analysis:
+
+Reflect on the capabilities and limitations of the chatbot prototype. Discuss the potential applications of such chatbots in real-world scenarios.
+Share any challenges you encountered during implementation and how you addressed them.
+Consider the ethical implications of chatbot development, particularly when using powerful language models.
+Submission Guidelines:
+
+Submit your assignment as a well-organized document or Jupyter Notebook.
+Ensure that your explanations are clear and include code snippets.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Research and understanding of the Hugging Face Transformers library.
+Successful implementation of a chatbot prototype using a pre-trained transformer model.
+Clarity in documenting the code and explaining the chatbot's architecture.
+Insightful analysis of the chatbot's capabilities, limitations, and ethical considerations.

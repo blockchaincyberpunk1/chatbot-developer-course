@@ -1,0 +1,38 @@
+Algorithmic Problem Solving
+
+Objective: Enhance problem-solving skills through algorithmic challenges.
+
+In this assignment, you will sharpen your problem-solving skills by tackling algorithmic challenges related to data structures in your chosen programming language. These problems can be sourced from online coding platforms, textbooks, or other reputable resources. You will document your solutions, providing explanations of your approach and the corresponding code.
+
+Instructions:
+
+Problem Selection:
+
+Choose a set of algorithmic problems that involve data structures such as arrays, linked lists, dictionaries, or others relevant to chatbot development.
+You may select problems from online coding platforms (e.g., LeetCode, HackerRank) or reference reputable algorithm textbooks.
+Problem Solving:
+
+Solve the selected problems individually, using your chosen programming language.
+For each problem, provide a step-by-step explanation of your approach before presenting the code solution.
+Ensure that your solutions are well-commented and adhere to programming best practices.
+Documentation:
+
+Document your solutions, including the problem statement, your approach, code snippets, and any additional insights or considerations.
+Reflect on Relevance:
+
+After solving each problem, reflect on how the problem-solving approach and data structures used could be relevant to chatbot development. Discuss any potential use cases.
+Presentation (Optional):
+
+If presenting your assignment, consider creating a brief presentation to explain your problem-solving approach and share insights gained from the problems.
+Submission Guidelines:
+
+Submit your assignment in a well-organized format, such as a document or presentation slides.
+Ensure that your explanations are clear and concise, making it easy for the reader to understand your problem-solving process.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and efficiency of problem solutions.
+Clarity and completeness of explanations.
+Adherence to programming language syntax and conventions.
+Quality of documentation and presentation (if applicable).

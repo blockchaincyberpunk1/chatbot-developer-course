@@ -1,0 +1,39 @@
+Natural Language Understanding (NLU) for Rule-Based Chatbots
+
+Objective: Enhance rule-based chatbots with NLU capabilities.
+
+In this assignment, you will take your rule-based chatbot to the next level by integrating Natural Language Understanding (NLU) capabilities. NLU enables chatbots to understand user intents, extract entities, and provide more context-aware responses. You will select an NLU library or framework (e.g., spaCy, Rasa NLU) and integrate it into your existing rule-based chatbot. By the end of this assignment, you should be able to demonstrate how NLU enhances the chatbot's ability to understand and respond to user inputs effectively.
+
+Instructions:
+
+Part 1: Select an NLU Framework:
+
+Research and select an NLU library or framework that is suitable for your chatbot project. Consider factors such as ease of integration, support for intent recognition, and entity extraction.
+If you're unsure which framework to choose, consult with your instructor or peers for recommendations.
+Part 2: Integrate NLU:
+
+Integrate the selected NLU framework into your existing rule-based chatbot. Ensure that your chatbot can now recognize user intents and extract entities from text inputs.
+Update your chatbot's conversational flow to incorporate NLU. This may involve modifying your if-else statements or switch-case logic to consider recognized intents and entities.
+Part 3: Provide Examples:
+
+Create examples of conversations between users and your chatbot to showcase how NLU enhances its capabilities.
+Demonstrate how the chatbot recognizes user intents and extracts entities from user inputs.
+Include scenarios where users provide variations of intents and entities to test the chatbot's NLU capabilities.
+Part 4: Present Code Snippets:
+
+Share code snippets that demonstrate the integration of NLU into your chatbot. Highlight the key components and functions related to NLU within your chatbot code.
+Part 5: Reflection:
+
+Reflect on the impact of NLU integration. Discuss how it has improved your chatbot's ability to understand user inputs and provide more context-aware responses.
+Consider any challenges or limitations you encountered during the integration process.
+Part 6: Submission:
+
+Submit your enhanced rule-based chatbot, including the NLU integration, conversation examples, code snippets, and your reflection.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of NLU into the chatbot.
+Quality and relevance of conversation examples that demonstrate NLU capabilities.
+Clarity and completeness of code snippets showcasing NLU integration.
+Thoughtful reflection on the impact of NLU on chatbot performance.

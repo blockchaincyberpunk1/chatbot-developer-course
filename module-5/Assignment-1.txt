@@ -1,0 +1,35 @@
+Rule-Based Chatbot Prototyping
+
+Objective: Develop simple rule-based chatbots using conditional statements and predefined responses.
+
+In this assignment, you will have the opportunity to create a rule-based chatbot prototype. Rule-based chatbots rely on predefined rules and responses to engage in conversations with users. You will select a specific use case for your chatbot and design its conversational flow using if-else statements or switch-case logic. By the end of this assignment, you should be able to implement a basic chatbot in your chosen programming language and provide examples of conversations that showcase its functionality.
+
+Instructions:
+
+Part 1: Select a Use Case:
+
+Choose a specific use case for your rule-based chatbot. This could be a scenario where a chatbot can assist users effectively. Examples include a restaurant reservation chatbot, an FAQ chatbot for a company's products or services, or a chatbot for booking movie tickets.
+Part 2: Design Conversational Flow:
+
+Design the conversational flow of your chatbot using conditional statements (if-else or switch-case logic). Consider how the chatbot will handle different user inputs and provide appropriate responses.
+Define a set of rules that govern the chatbot's behavior. For example, if a user asks about available reservation times, the chatbot should respond with the available time slots.
+Part 3: Implement the Chatbot:
+
+Implement the rule-based chatbot in your chosen programming language. You can use any programming language you are comfortable with.
+Ensure that your chatbot responds appropriately to user inputs based on the rules you defined in Part 2.
+Part 4: Provide Conversation Examples:
+
+Create several examples of conversations between users and your chatbot to showcase its functionality. These examples should demonstrate how the chatbot responds to different types of user queries and inputs.
+Include both typical interactions and scenarios where users may provide unexpected inputs.
+Part 5: Submission:
+
+Submit your rule-based chatbot prototype, including the design of its conversational flow, implementation code, and conversation examples.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the conversational flow design.
+Correct implementation of the chatbot in your chosen programming language.
+Appropriateness and accuracy of chatbot responses.
+Effectiveness in handling different user inputs.
+Quality and relevance of conversation examples.

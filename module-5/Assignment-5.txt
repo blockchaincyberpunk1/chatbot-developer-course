@@ -1,0 +1,44 @@
+Evaluating Chatbot Performance
+
+Objective: Evaluate the performance of both rule-based and machine learning-based chatbots.
+
+In this assignment, you will conduct a comprehensive evaluation of both rule-based and machine learning-based chatbots. You will compare and contrast their strengths and weaknesses in terms of user experience, scalability, and adaptability. Additionally, you will conduct user testing with a small group of participants to gather feedback on the chatbots' effectiveness and analyze the results to provide recommendations for improvement.
+
+Instructions:
+
+Part 1: Chatbot Selection:
+
+Choose or create a rule-based chatbot and a machine learning-based chatbot for evaluation. These chatbots can be related to a common use case, such as customer support or information retrieval.
+Part 2: Evaluation Criteria:
+
+Define a set of evaluation criteria to assess the performance of the chatbots. These criteria should include aspects related to user experience, scalability, and adaptability. Consider factors like response accuracy, speed, handling of user inputs, and ease of maintenance.
+Part 3: User Testing Plan:
+
+Design a user testing plan to gather feedback on the chatbots' performance. Determine the number of participants needed for your study (e.g., 5-10 participants) and create a script that includes a set of tasks or scenarios for users to interact with the chatbots.
+Part 4: User Testing:
+
+Conduct user testing sessions with the selected participants. Each participant should interact with both the rule-based and machine learning-based chatbots. Record their interactions and gather feedback on their experience.
+Part 5: Data Analysis:
+
+Analyze the data collected during user testing. Evaluate how each chatbot performed based on the defined criteria and user feedback. Identify areas where each type of chatbot excelled and where they faced challenges.
+Part 6: Recommendations:
+
+Provide recommendations for improving the performance of both chatbot types based on the evaluation results. Discuss potential enhancements or modifications that could address the weaknesses identified during testing.
+Part 7: Report Preparation:
+
+Prepare a report summarizing the evaluation process, results, and recommendations. Include any insights gained from the user testing sessions.
+Part 8: Presentation:
+
+Optionally, create a presentation summarizing the key findings and recommendations from your evaluation. You can present this to the class or submit it alongside your report.
+Part 9: Submission:
+
+Submit your evaluation report and presentation (if applicable).
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness of the evaluation process, including well-defined criteria and user testing plan.
+Quality of user testing sessions and data collection.
+Sound analysis of chatbot performance and user feedback.
+Practical and actionable recommendations for chatbot improvement.
+Clarity and completeness of the evaluation report.

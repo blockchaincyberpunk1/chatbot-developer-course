@@ -1,0 +1,35 @@
+ User-Centric Conversational Design
+
+Objective: Apply user-centric design principles to conversational design.
+
+In this assignment, you will assess the user-centric design features of a specific chatbot or virtual assistant. You will evaluate how the chatbot prioritizes user needs and preferences through personalization, context-awareness, and empathy. Additionally, you will provide examples of how these features enhance the user's experience and suggest potential improvements to further enhance user-centric design.
+
+Instructions:
+
+Part 1: Select a Chatbot or Virtual Assistant:
+
+Choose a specific chatbot or virtual assistant that you would like to evaluate. Examples include Siri, Google Assistant, Alexa, or a chatbot used in a specific industry (e.g., customer support chatbot, healthcare chatbot).
+Part 2: Evaluate User-Centric Design:
+
+Assess the chatbot's user-centric design features based on the following principles:
+Personalization: Does the chatbot personalize interactions based on user preferences or history? Provide examples.
+Context-Awareness: How well does the chatbot understand and respond to the user's context or previous messages? Give instances of context-aware responses.
+Empathy: Evaluate the chatbot's ability to exhibit empathy and understanding in interactions. Highlight empathetic responses.
+Part 3: Provide Examples:
+
+Provide specific examples from your chosen chatbot that demonstrate its user-centric design features.
+For personalization, context-awareness, and empathy, describe real interactions or scenarios where the chatbot excels in serving user needs.
+Part 4: Suggest Improvements:
+
+Identify areas where the chatbot's user-centric design could be improved.
+Propose specific recommendations for enhancing personalization, context-awareness, and empathy to make the chatbot even more user-centric.
+Part 5: Submission:
+
+Submit your assignment as a document or presentation that includes your evaluation, examples, and improvement suggestions.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and depth of evaluation for personalization, context-awareness, and empathy.
+Clarity and relevance of the provided examples.
+Thoughtful and actionable improvement suggestions for user-centric design.

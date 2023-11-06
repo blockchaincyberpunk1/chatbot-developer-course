@@ -1,0 +1,37 @@
+Chatbot Prototype with Python
+
+Objective: Apply your programming knowledge to create a basic chatbot prototype.
+
+In this assignment, you will put your programming skills to work by developing a simple chatbot prototype using the Python programming language. The chatbot should be capable of responding to user input with predefined responses, allowing for basic user interactions and conversation flow.
+
+Instructions:
+
+Chatbot Prototype Development:
+
+Using Python, create a simple chatbot prototype.
+Design the chatbot to have predefined responses for a set of user inputs. The responses can be related to a specific topic or purpose.
+Implement a conversation flow that allows the chatbot to engage in a basic back-and-forth interaction with the user.
+Ensure that your chatbot provides responses that are relevant to the user's input.
+User Interaction Examples:
+
+Include a set of example user interactions to showcase how the chatbot responds to different inputs.
+Test your chatbot with various inputs to demonstrate its capabilities.
+Documentation:
+
+Document your chatbot development process, including the structure of your code, the purpose or theme of your chatbot, and any libraries or modules used.
+Explain the logic behind how your chatbot processes user input and generates responses.
+Reflection:
+
+Reflect on the experience of creating the chatbot prototype. Discuss any challenges faced and lessons learned during the development process.
+Submission Guidelines:
+
+Submit your assignment in a well-organized Python script or Jupyter Notebook file.
+Ensure that your code is clear and well-documented.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct functionality of the chatbot prototype.
+Clarity and organization of the code.
+Explanation of the chatbot's logic and response generation.
+Reflection on the development process.

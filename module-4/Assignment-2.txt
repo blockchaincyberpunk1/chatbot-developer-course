@@ -1,0 +1,40 @@
+Designing Conversation Flows
+
+Objective: Learn how to design conversation flows using flowcharts and diagrams.
+
+In this assignment, you will apply your knowledge of chatbot development to design a conversation flow for a hypothetical chatbot use case. You will create a detailed conversation flowchart that outlines the interactions between the user and the chatbot, taking into consideration different user inputs and responses. This assignment will help you understand the importance of structuring conversations for effective chatbot interactions.
+
+Instructions:
+
+Part 1: Select a Hypothetical Use Case:
+
+Choose a hypothetical use case for a chatbot. Examples include:
+Restaurant reservation chatbot.
+Customer support chatbot for a tech company.
+Travel booking chatbot.
+Educational assistance chatbot.
+Part 2: Create a Conversation Flowchart:
+
+Using a tool like Lucidchart, Draw.io, or any flowchart creation tool of your choice, design a conversation flowchart that illustrates the interactions between the user and the chatbot.
+Start with the initial user input or trigger (e.g., user initiates a conversation).
+Include decision points, branches, and possible user inputs.
+Consider the chatbot's responses at each step and any potential follow-up questions or actions.
+Represent the flow in a clear and organized manner, making use of symbols for decision points, user inputs, and chatbot responses.
+Part 3: Detailed Explanation:
+
+Provide a detailed explanation of the conversation flowchart you created.
+Explain the purpose of the chatbot and its main functionalities within the chosen use case.
+Walk through the flowchart step by step, explaining each interaction between the user and the chatbot.
+Highlight any important decision points and the reasoning behind the chatbot's responses.
+Discuss how the conversation flow enhances the user experience and achieves the chatbot's objectives.
+Part 4: Submission:
+
+Submit your assignment as a document or presentation that includes the conversation flowchart and your detailed explanation.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the conversation flowchart.
+Accuracy and relevance of the chatbot's responses.
+Clear and well-structured explanation of the flowchart.
+Consideration of user experience and chatbot objectives in the design.

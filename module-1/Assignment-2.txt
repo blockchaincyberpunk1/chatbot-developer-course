@@ -1,0 +1,41 @@
+Fundamentals of Natural Language Processing (NLP)
+
+Objective: Understand the core concepts of Natural Language Processing (NLP).
+
+In this assignment, you will dive into the fundamentals of Natural Language Processing (NLP), a crucial component of chatbot development. You will explore key NLP concepts such as tokenization, part-of-speech tagging, and named entity recognition (NER). Additionally, you will learn how NLP is applied in everyday applications, enhancing your understanding of its practical relevance.
+
+Instructions:
+
+Tokenization:
+
+Define and explain the concept of tokenization in NLP.
+Provide a clear example of tokenization by taking a sentence and breaking it down into individual tokens. Explain why tokenization is essential in NLP.
+Part-of-Speech Tagging:
+
+Define part-of-speech tagging and its significance in NLP.
+Offer an example sentence with part-of-speech tags for each word (e.g., noun, verb, adjective). Explain how part-of-speech tagging aids in language analysis.
+Named Entity Recognition (NER):
+
+Define Named Entity Recognition (NER) and its purpose in NLP.
+Provide an example sentence and highlight the named entities it contains (e.g., names of people, organizations, locations). Explain the practical applications of NER.
+Everyday NLP Applications:
+
+Identify at least two everyday applications where NLP plays a crucial role. Examples include:
+Virtual Assistants: Explain how NLP is used in virtual assistants like Siri or Alexa to understand and respond to user voice commands.
+Social Media Sentiment Analysis: Describe how NLP techniques are employed to analyze social media content and determine sentiment (positive, negative, neutral).
+Format:
+
+Your assignment can be presented in a written format (document or essay) or as a presentation with clear slides (e.g., PowerPoint).
+Submission Guidelines:
+
+Follow academic writing conventions (if submitting a document).
+If presenting as slides, ensure your presentation is clear, organized, and visually appealing.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanations for tokenization, part-of-speech tagging, and NER.
+Accuracy in the application of NLP concepts.
+Relevance and quality of examples.
+Presentation quality (if applicable).
+Adherence to submission guidelines.

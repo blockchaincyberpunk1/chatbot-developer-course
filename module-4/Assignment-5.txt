@@ -1,0 +1,34 @@
+Usability Testing of Chatbots
+
+Objective: Understand the importance of usability testing in conversational design.
+
+In this assignment, you will develop a usability testing plan for a chatbot or virtual assistant. Usability testing is a crucial step in ensuring that your chatbot's conversational design meets user expectations and needs. You will identify specific usability testing scenarios, tasks, and criteria for evaluating the chatbot's conversational design. Additionally, you will describe how you would conduct the usability tests, including recruiting participants and collecting feedback.
+
+Instructions:
+
+Part 1: Select a Chatbot for Usability Testing:
+
+Choose a chatbot or virtual assistant for usability testing. This can be an existing chatbot or a hypothetical one that you have designed.
+Part 2: Develop a Usability Testing Plan:
+
+Create a usability testing plan that outlines the following details:
+Testing Scenarios: Identify specific scenarios or use cases in which the chatbot's conversational design will be tested. For example, this could include scenarios related to product inquiries, troubleshooting, or customer support.
+Testing Tasks: Define the tasks that participants will be asked to perform with the chatbot. These tasks should be relevant to the selected scenarios and designed to assess the chatbot's effectiveness.
+Usability Criteria: Establish clear criteria for evaluating the chatbot's conversational design. Consider factors like user satisfaction, task completion rates, response accuracy, and overall user experience.
+Recruitment: Describe your plan for recruiting participants. Explain the criteria for selecting participants, such as age, background, or familiarity with chatbots.
+Testing Method: Decide whether the usability testing will be conducted in a controlled lab environment, remotely, or using a combination of both. Provide reasoning for your choice.
+Data Collection: Explain how you will collect data during usability testing. This may include video recordings, screen captures, surveys, or interviews.
+Data Analysis: Describe the methods you will use to analyze usability testing data and evaluate the chatbot's performance.
+Reporting: Explain how you will report the findings from usability testing and how these findings will inform potential design improvements.
+Part 3: Submission:
+
+Submit your usability testing plan, ensuring that all components listed in Part 2 are clearly defined and explained.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the usability testing plan.
+Relevance and effectiveness of the testing scenarios and tasks.
+Appropriateness of usability criteria for evaluating the chatbot's conversational design.
+Thoughtfulness in participant recruitment and data collection methods.
+Soundness of data analysis and reporting strategies.

@@ -1,0 +1,44 @@
+Tokenization and Text Preprocessing
+
+Objective: Learn practical text preprocessing techniques in NLP.
+
+In this assignment, you will gain hands-on experience with text preprocessing techniques, which are essential for preparing text data for Natural Language Processing (NLP) tasks. Specifically, you will perform tokenization on a given text dataset and apply basic text preprocessing steps, such as removing stop words, punctuation, and converting text to lowercase.
+
+Instructions:
+
+Tokenization:
+
+You will be provided with a text dataset containing sentences or paragraphs.
+Implement a tokenization process to break down the text into individual words or tokens. You can use Python libraries such as NLTK or spaCy, or any other programming language you are comfortable with.
+Create a list of tokens for each text entry in the dataset.
+Text Preprocessing:
+
+After tokenization, apply the following text preprocessing steps to the tokenized data:
+Stop Word Removal: Remove common stop words (e.g., "the," "and," "in") from the tokenized lists.
+Punctuation Removal: Remove punctuation marks (e.g., commas, periods, exclamation marks) from the tokenized lists.
+Lowercasing: Convert all text to lowercase to ensure uniformity in the dataset.
+Documentation:
+
+Document your code and preprocessing steps clearly to explain the process you followed.
+Example Output:
+
+Provide an example of the original text, tokenized text, and the result after text preprocessing for one or more entries in the dataset.
+Dataset:
+
+You will receive a dataset containing text entries for this assignment.
+Programming Language:
+
+You can use a programming language of your choice for this assignment, but it should support text processing.
+Submission Guidelines:
+
+Submit your code and documentation in a well-organized format, such as a Jupyter Notebook, Python script, or any other suitable format.
+Ensure that your code is well-documented and includes comments explaining each step of the process.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of tokenization.
+Accurate application of text preprocessing steps (stop word removal, punctuation removal, lowercasing).
+Clarity and quality of documentation.
+Example output showcasing the original text, tokenized text, and preprocessed text.
+Adherence to submission guidelines.

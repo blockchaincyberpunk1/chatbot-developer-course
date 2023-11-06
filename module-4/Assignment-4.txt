@@ -1,0 +1,31 @@
+Dialog Flow Prototyping
+
+Objective: Gain practical experience in creating dialog flow prototypes.
+
+In this assignment, you will design a dialog flow prototype for a hypothetical chatbot scenario or use case. By using a prototyping tool of your choice, you will visualize the conversation between the user and the chatbot. Additionally, you will annotate the prototype to provide explanations and descriptions for each interaction and message.
+
+Instructions:
+
+Part 1: Choose a Chatbot Scenario:
+
+Select a specific chatbot scenario or use case that you'd like to prototype. This could be related to travel booking, e-commerce, customer support, or any other domain of your choice.
+Part 2: Create a Dialog Flow Prototype:
+
+Use a prototyping tool of your choice (e.g., Figma, Sketch, Adobe XD, or even paper sketches) to design the dialog flow prototype.
+Create a visual representation of the conversation between the user and the chatbot, including user inputs, chatbot responses, and potential decision points.
+Ensure that the prototype is easy to follow and provides a clear visualization of the chatbot's interactions with the user.
+Part 3: Annotate the Prototype:
+
+Annotate the prototype by adding descriptions and explanations for each interaction and message. Explain the purpose of each message and how it contributes to the overall conversation.
+Provide context and information about any decision points, branching logic, or user choices within the dialog flow.
+Part 4: Submission:
+
+Submit your dialog flow prototype along with the annotations and explanations.
+You can choose to submit a digital file or photos of hand-drawn sketches, depending on the tool you use for prototyping.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the dialog flow prototype.
+Accuracy and relevance of annotations and explanations.
+Overall effectiveness in visualizing the chatbot conversation.
